@@ -5,19 +5,17 @@
 	<key>changed</key>
 	<dict>
 		<key>content</key>
-		<string>if (${1:true}) {
-	${0:$TM_SELECTED_TEXT}
-} else {
-	
+		<string>for (var ${20:i}=0; ${20:i} &lt; ${1:Things}.length; ${20:i}++) {
+	${100:${1:Things}[${20:i}]}$0
 }</string>
-		<key>tabTrigger</key>
-		<string>ie</string>
+		<key>name</key>
+		<string>for</string>
 	</dict>
 	<key>deleted</key>
 	<array/>
 	<key>isDelta</key>
 	<true/>
 	<key>uuid</key>
-	<string>31964029-9D71-4ADC-8213-DFE5C4E222B3</string>
+	<string>011C4681-FBEC-4891-9326-3DECFCDED6D6</string>
 </dict>
 </plist>
