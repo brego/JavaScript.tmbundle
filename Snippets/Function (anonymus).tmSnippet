@@ -3,7 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>function(${1:argument}) { $0 }</string>
+	<string>function(${1}) {${2:
+	$0
+}}</string>
 	<key>name</key>
 	<string>Function (anonymus)</string>
 	<key>scope</key>

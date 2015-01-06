@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string> else if ($0) {
-	
-}</string>
+	<string>return false;$0</string>
 	<key>name</key>
-	<string>else if</string>
+	<string>return false</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>ei</string>
+	<string>ret</string>
 	<key>uuid</key>
-	<string>2B1DDB59-6B9D-40EE-A18D-29485EB7CEE4</string>
+	<string>04928E51-087F-4D33-89F5-8CBFAAD437D3</string>
 </dict>
 </plist>
